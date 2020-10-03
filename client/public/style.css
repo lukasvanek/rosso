@@ -1,0 +1,20 @@
+html {
+  width: 100%;
+}
+
+html,
+body {
+  overflow: hidden;
+  touch-action: none;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+*:focus {
+  outline: none;
+}

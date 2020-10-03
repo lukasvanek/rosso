@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'BaiJamjuree-ExtraLight';}
+	.st1{font-size:500px;}
+	.st2{font-family:'BaiJamjuree-Medium';}
+	.st3{font-size:145px;}
+</style>
+<font horiz-adv-x="1000">
+<!-- Copyright 2018 Bai Jamjuree (https://github.com/cadsondemak/Bai-Jamjuree) -->
+<!-- Copyright: Copyright 2020 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="BaiJamjuree-Medium" units-per-em="1000" underline-position="-75" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="509" d="M50,712l409,0l0,-712l-409,0M392,66l0,580l-274,0l0,-580z"/>
+<glyph unicode="o" horiz-adv-x="578" d="M50,184l0,130C50,372 68,419 104,454C140,489 188,507 247,507l84,0C390,507 438,489 474,454C510,419 528,372 528,314l0,-130C528,127 510,80 474,45C437,10 389,-8 330,-8l-85,0C186,-8 139,10 104,45C68,80 50,127 50,184M329,74C361,74 387,84 406,105C425,126 435,153 435,188l0,123C435,346 426,373 407,394C388,415 362,425 331,425l-84,0C216,425 191,415 172,394C153,373 143,346 143,311l0,-123C143,153 152,126 171,105C190,84 215,74 246,74z"/>
+<glyph unicode="s" horiz-adv-x="530" d="M45,154l91,0C136,129 144,109 160,94C176,79 197,71 224,71l88,0C337,71 358,76 373,86C388,95 396,108 396,124l0,29C396,164 392,173 383,182C374,190 362,195 348,198l-173,30C138,235 109,249 87,270C65,291 54,315 54,343l0,33C54,415 70,447 101,471C132,495 174,507 227,507l84,0C361,507 401,493 432,466C462,439 477,402 477,357l-91,0C385,378 378,396 365,409C351,422 333,428 311,428l-83,0C203,428 184,423 170,413C155,403 148,390 148,373l0,-25C148,337 153,328 162,320C171,312 183,306 198,303l175,-31C408,266 436,253 458,232C479,211 490,187 490,160l0,-39C490,82 474,51 441,28C408,4 365,-8 312,-8l-88,0C170,-8 127,7 94,37C61,66 45,105 45,154z"/>
+</font>
+
+	<font horiz-adv-x="1000">
+<!-- Copyright 2018 Bai Jamjuree (https://github.com/cadsondemak/Bai-Jamjuree) -->
+<!-- Copyright: Copyright 2020 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="BaiJamjuree-ExtraLight" units-per-em="1000" underline-position="-75" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="509" d="M50,712l409,0l0,-712l-409,0M392,66l0,580l-274,0l0,-580z"/>
+<glyph unicode="R" horiz-adv-x="636" d="M92,700l320,0C457,700 494,687 522,662C550,636 564,602 564,561l0,-82C564,443 553,412 530,385C507,358 477,341 439,332l0,-1C459,322 477,306 493,284C508,261 520,234 529,202l57,-202l-36,0l-58,202C481,240 463,270 440,291C417,312 390,323 359,323l-231,0l0,-323l-36,0M387,356C430,356 464,367 490,390C515,412 528,442 528,479l0,82C528,593 518,619 497,638C476,657 447,667 412,667l-284,0l0,-311z"/>
+</font>
+
+	<text transform="matrix(1 0 0 1 25.3101 421.479)" class="st0 st1">R</text>
+<text transform="matrix(1 0 0 1 358.4329 146.9606)"><tspan x="0" y="0" class="st2 st3">o</tspan><tspan x="3.48" y="92" class="st2 st3">s</tspan><tspan x="3.48" y="184" class="st2 st3">s</tspan><tspan x="0" y="276" class="st2 st3">o</tspan></text>
+</svg>
