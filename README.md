@@ -1,6 +1,7 @@
 ## Rosso solutions
 
 Platform for no-code development
+Production on [rosso.solutions](https://rosso.solutions)
 
 ### `yarn start`
 
