@@ -1,7 +1,8 @@
 ## Rosso solutions
 
 Platform for no-code development
-Production on [rosso.solutions](https://rosso.solutions)
+
+Production on <a href="https://rosso.solutions" target="_blank">rosso.solutions</a>
 
 ### `yarn start`
 
