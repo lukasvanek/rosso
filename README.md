@@ -2,7 +2,7 @@
 
 Platform for no-code development
 
-Production on <a href="https://rosso.solutions" target="_blank">rosso.solutions</a>
+Check it out in production here: <a href="https://rosso.solutions" target="_blank">rosso.solutions</a>
 
 ### `yarn start`
 
