@@ -1,11 +1,11 @@
 {
-  "name": "client",
+  "name": "rosso-solutions-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@rebass/forms": "^4.0.6",
-    "@rematch/core": "^1.4.0",
-    "@rematch/persist": "^1.1.6",
+    "@rematch/core": "^2.0.0-next.5",
+    "@rematch/persist": "^2.0.0-next.5",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
@@ -28,14 +28,14 @@
     "rebass": "^4.0.7",
     "redux-logger": "^3.0.6",
     "tone": "^14.7.39",
-    "uuid": "^8.3.0",
-    "typescript": "^3.9.3"
+    "typescript": "^3.9.3",
+    "uuid": "^8.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "deploy": "vercel --prod"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -53,12 +53,19 @@
     ]
   },
   "devDependencies": {
+    "@types/json5": "^0.0.30",
     "@types/prettier": "^2.1.1",
     "@types/ramda": "^0.27.19",
+    "@types/react": "^16.9.50",
+    "@types/react-dom": "^16.9.8",
     "@types/react-redux": "^7.1.9",
     "@types/react-router-dom": "^5.1.5",
+    "@types/rebass": "^4.0.7",
+    "@types/rebass__forms": "^4.0.4",
     "@types/redux-logger": "^3.0.8",
-    "@types/theme-ui": "^0.3.7",
+    "@types/testing-library__jest-dom": "^5.9.4",
+    "@types/testing-library__react": "^10.2.0",
+    "@types/uuid": "^8.3.0",
     "prettier": "2.0.5"
   }
 }

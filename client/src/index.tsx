@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
 import { ThemeProvider } from 'emotion-theming';
 import { getPersistor } from '@rematch/persist';
+// @ts-ignore
 import { PersistGate } from 'redux-persist/lib/integration/react';
 import { store } from './store';
 import theme from './theme';
